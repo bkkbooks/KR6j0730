@@ -1,0 +1,84 @@
+canonical_identifier: bkk:krp/KR6j0730/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0730/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 請觀音經疏闡義鈔
+  identifiers:
+    krp: KR6j0730
+    cbeta: T39n1801
+    cbeta_old_id: T39n1801
+    authorityid: CA0002604
+    json_key: T1801
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T39/T39n1801.xml
+    old_id: T39n1801
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0730_000-T.yaml, hash: 'sha256:7268e7ff73da5ccdd3670daebf4421ec64bcc3858afe69dbf1cd35b0777f8454'}
+  - {seq: 1, filename: KR6j0730_001-T.yaml, hash: 'sha256:795cbeaf2cab8d98c581b934dc5efed51ceebb9b70d13acf50b431073c3c746d'}
+  - {seq: 2, filename: KR6j0730_002-T.yaml, hash: 'sha256:dc3ad53707514908a6800e9cbc35ce796689e3128f622bc06b2eaebaced1c46e'}
+  - {seq: 3, filename: KR6j0730_003-T.yaml, hash: 'sha256:10f4d965e0daf6cd091a3a9fdfb3f3569b589a5fb6c18ad187103168ebf7afc1'}
+  - {seq: 4, filename: KR6j0730_004-T.yaml, hash: 'sha256:8552c18d1b0ab6f95da5e341ac157529c2c728301585477d38ad731213c55d50'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0730_000-T.markers.yaml, hash: 'sha256:d379145c840eb3bd4b179a5b1d267cd62ac39151da007033aa2617d56a3f4907'}
+  - {seq: 1, role: markers, filename: assets/KR6j0730_001-T.markers.yaml, hash: 'sha256:3b86a4defc7ba95bcb5c90742e74efc877856644b18053b6033edc314dffaf00'}
+  - {seq: 2, role: markers, filename: assets/KR6j0730_002-T.markers.yaml, hash: 'sha256:a14628ee3e81537fbacf0cc55410e7c10a0e2d4d37cb16dc88687336a424d06d'}
+  - {seq: 3, role: markers, filename: assets/KR6j0730_003-T.markers.yaml, hash: 'sha256:68050130e9646c9d4749e1d06f48328eced16812676ed5ef7515e2be1ca548c8'}
+  - {seq: 4, role: markers, filename: assets/KR6j0730_004-T.markers.yaml, hash: 'sha256:f630939f1aff17269604121b294ee8ad77e13d4090281305db06ba645319dde6'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6j0730_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 請觀音經疏闡義鈔序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0730_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 9096
+  label: 請觀音經疏闡義鈔卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0730_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 7865
+  label: 請觀音經疏闡義鈔卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0730_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 12020
+  label: 請觀音經疏闡義鈔卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0730_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 10453
+  label: 請觀音經疏闡義鈔卷第四
+  type: juan
+  level: 1
+hash: sha256:9ed794f27204ebf4bfc4e815113c4b0428e69f251ff36cc82a2a5ffe1df11564

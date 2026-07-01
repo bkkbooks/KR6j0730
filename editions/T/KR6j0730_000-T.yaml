@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6j0730/t/v1/juan/0
+seq: 0
+front:
+  text: 請觀音經疏闡義鈔序此疏自智者演說章安記錄古來人師無聞贊述既傳授道息後學往往有不知其名者知其名而未嘗披其卷者於乎斯文之未喪也一綫爾吾不肖而實痛焉吾如默默則何以傳後遂因疾間輒約文敷義筆之為鈔凡二卷庶申明於大旨開發於童蒙也既成乃作序以言其由復作闡義之名以名之皇宋三葉登封之明年歲次己酉孟夏哉生明於南塔上方病中序
+  hash: sha256:279d0a1d773066044fd33ee33db32370f099072b0d0676802c8aa62dd1bd6847
+  markers:
+  - {type: 序, offset: 0, content: 請觀音經疏闡義鈔序, id: KR6j0730_T_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 請觀音經疏闡義鈔
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T39/T39n1801.xml
+    old_id: T39n1801
+hash: sha256:7268e7ff73da5ccdd3670daebf4421ec64bcc3858afe69dbf1cd35b0777f8454
