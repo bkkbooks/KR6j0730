@@ -34,7 +34,9 @@ markers:
   - {type: line-break, offset: 9, content: '', id: KR6j0730_T_000-0977a22, ed: T, 'n': 0977a22}
   - {type: line-break, offset: 9, content: '', id: KR6j0730_T_000-0977a23, ed: T, 'n': 0977a23}
   - {type: xml-element, offset: 9, content: '', id: pT39p0977a2301, name: p, role: open, attrs: {'xml:id': pT39p0977a2301}}
+  - {type: substitution, offset: 15, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: punctuation, offset: 16, content: 、, id: KR6j0730_T_000-bkkpn26}
+  - {type: substitution, offset: 19, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: punctuation, offset: 20, content: ，, id: KR6j0730_T_000-bkkpn27}
   - {type: line-break, offset: 26, content: '', id: KR6j0730_T_000-0977a24, ed: T, 'n': 0977a24}
   - {type: punctuation, offset: 28, content: 。, id: KR6j0730_T_000-bkkpn28}
@@ -45,6 +47,7 @@ markers:
   - {type: punctuation, offset: 55, content: ！, id: KR6j0730_T_000-bkkpn32}
   - {type: line-break, offset: 60, content: '', id: KR6j0730_T_000-0977a26, ed: T, 'n': 0977a26}
   - {type: punctuation, offset: 61, content: ，, id: KR6j0730_T_000-bkkpn33}
+  - {type: substitution, offset: 62, original: 綫, replacement: 線, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19573}}
   - {type: punctuation, offset: 64, content: 。, id: KR6j0730_T_000-bkkpn34}
   - {type: punctuation, offset: 67, content: ，, id: KR6j0730_T_000-bkkpn35}
   - {type: punctuation, offset: 71, content: 。, id: KR6j0730_T_000-bkkpn36}
@@ -76,4 +79,4 @@ markers:
   - {type: line-break, offset: 152, content: '', id: KR6j0730_T_000-0977b05, ed: T, 'n': 0977b05}
   body: []
   back: []
-hash: sha256:257622e01a62efcd4a07ff8df8ed20b658c779fa736aaeeb040a20703679b026
+hash: sha256:ab0ae2e58aa59e555b7af28538d2ff44a0a544e0e6a60f6a916d3d33b5374031
