@@ -19,13 +19,13 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6j0730_000-T.yaml, hash: 'sha256:7268e7ff73da5ccdd3670daebf4421ec64bcc3858afe69dbf1cd35b0777f8454'}
+  - {seq: 0, filename: KR6j0730_000-T.yaml, hash: 'sha256:4af4ff118a7b5bc1b1269671546b19363b5e78b1ea1f1bcab1a302fb30ad4010'}
   - {seq: 1, filename: KR6j0730_001-T.yaml, hash: 'sha256:795cbeaf2cab8d98c581b934dc5efed51ceebb9b70d13acf50b431073c3c746d'}
   - {seq: 2, filename: KR6j0730_002-T.yaml, hash: 'sha256:dc3ad53707514908a6800e9cbc35ce796689e3128f622bc06b2eaebaced1c46e'}
   - {seq: 3, filename: KR6j0730_003-T.yaml, hash: 'sha256:10f4d965e0daf6cd091a3a9fdfb3f3569b589a5fb6c18ad187103168ebf7afc1'}
   - {seq: 4, filename: KR6j0730_004-T.yaml, hash: 'sha256:8552c18d1b0ab6f95da5e341ac157529c2c728301585477d38ad731213c55d50'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0730_000-T.markers.yaml, hash: 'sha256:d379145c840eb3bd4b179a5b1d267cd62ac39151da007033aa2617d56a3f4907'}
+  - {seq: 0, role: markers, filename: assets/KR6j0730_000-T.markers.yaml, hash: 'sha256:5685ddb3e96123b5f29630f46a7d7cb389fb03afe8f7db96b9abbe971d3ae124'}
   - {seq: 1, role: markers, filename: assets/KR6j0730_001-T.markers.yaml, hash: 'sha256:3b86a4defc7ba95bcb5c90742e74efc877856644b18053b6033edc314dffaf00'}
   - {seq: 2, role: markers, filename: assets/KR6j0730_002-T.markers.yaml, hash: 'sha256:a14628ee3e81537fbacf0cc55410e7c10a0e2d4d37cb16dc88687336a424d06d'}
   - {seq: 3, role: markers, filename: assets/KR6j0730_003-T.markers.yaml, hash: 'sha256:68050130e9646c9d4749e1d06f48328eced16812676ed5ef7515e2be1ca548c8'}
@@ -35,7 +35,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0730_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 請觀音經疏闡義鈔序
@@ -81,4 +81,4 @@ table_of_contents:
   label: 請觀音經疏闡義鈔卷第四
   type: juan
   level: 1
-hash: sha256:9ed794f27204ebf4bfc4e815113c4b0428e69f251ff36cc82a2a5ffe1df11564
+hash: sha256:0697845587d54096510b81f75de1fb29a237be9740b8fba7ca30cd121b6555fc
